@@ -1,4 +1,4 @@
-# Playwright
+# Playwright - TEST UI
 - Run your tests with UI Mode: $ yarn playwright test --ui
 
 ## 1. Syntax
